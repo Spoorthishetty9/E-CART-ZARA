@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.trimTrailingWhitespace": true,
+    "jest.showCoverageOnLoad": true,
+    "prettier.jsxSingleQuote": true
+  }
